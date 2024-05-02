@@ -1,5 +1,16 @@
--Requirements
+# Requirements
+
+## Plugins
+
 --Plugins
+
 ---instapost
+
 ---ACF
----Themes(thewebguys folder)
+
+## Theme
+---thewebguys folder
+
+## Database
+
+--thewebguys.sql (it was in the root folder)
