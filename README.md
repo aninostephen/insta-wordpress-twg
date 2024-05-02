@@ -1,3 +1,7 @@
+# Senior Full Stack Developer Test
+
+Wordpress customize Theme and Plugins
+
 # Requirements
 
 ## Plugins
