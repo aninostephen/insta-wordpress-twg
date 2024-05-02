@@ -1,0 +1,5 @@
+-Requirements
+--Plugins
+---instapost
+---ACF
+---Themes(thewebguys folder)
