@@ -2,8 +2,6 @@
 
 ## Plugins
 
---Plugins
-
 ---instapost
 
 ---ACF
